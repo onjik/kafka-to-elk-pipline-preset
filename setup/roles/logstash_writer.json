@@ -28,6 +28,20 @@
         "write",
         "manage"
       ]
+    },
+    {
+      "names": [
+        "api_usage_trace"
+      ],
+      "privileges": [
+        "write",
+        "create",
+        "create_index",
+        "create_doc",
+        "delete",
+        "index",
+        "all"
+      ]
     }
   ]
 }
